@@ -21,7 +21,7 @@
 ---
 
 ### Автор:
-<span style="font-size: 26px; font-weight: bold;">Прошкин Александр Евгеньевич</span>
+<span style="font-size: 35px; font-weight: bold;">Прошкин Александр Евгеньевич</span>
 
 ### Группа:
 **Python32**
